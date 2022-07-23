@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/just-login/static/js/app.73457fe3.chunk.js",
-    "app.js.map": "/just-login/static/js/app.73457fe3.chunk.js.map",
+    "app.js": "/just-login/static/js/app.7dbf1ee8.chunk.js",
+    "app.js.map": "/just-login/static/js/app.7dbf1ee8.chunk.js.map",
     "runtime~app.js": "/just-login/static/js/runtime~app.25a7a974.js",
     "runtime~app.js.map": "/just-login/static/js/runtime~app.25a7a974.js.map",
     "static/js/2.b7f276e4.chunk.js": "/just-login/static/js/2.b7f276e4.chunk.js",
@@ -18,6 +18,6 @@
   "entrypoints": [
     "static/js/runtime~app.25a7a974.js",
     "static/js/2.b7f276e4.chunk.js",
-    "static/js/app.73457fe3.chunk.js"
+    "static/js/app.7dbf1ee8.chunk.js"
   ]
 }
